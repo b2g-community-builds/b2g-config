@@ -15,7 +15,7 @@
         "{objdir}/dist/b2g-update/*.mar"
     ],
     "zip_files": [
-        ["{workdir}/out/target/product/a500/*.img", "out/target/product/a500/"],
+        ["{workdir}/out/target/product/picasso/*.img", "out/target/product/picasso/"],
         "{workdir}/sources.xml",
         ["{workdir}/gecko/tools/profiler/merge-profiles.py", "gecko/tools/profiler/"],
         ["{workdir}/scripts/profile-symbolicate.py", "scripts/"],
